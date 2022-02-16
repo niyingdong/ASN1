@@ -125,7 +125,7 @@
   <ItemGroup>
     <ClCompile Include="itcastderlog.c" />
     <ClCompile Include="itcast_asn1_der.c" />
-    <ClCompile Include="main.c" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="itcastderlog.h" />
