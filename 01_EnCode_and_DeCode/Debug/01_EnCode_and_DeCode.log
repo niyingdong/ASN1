@@ -1,9 +1,4 @@
-﻿  itcastderlog.c
-C:\Git\新建文件夹\01_EnCode_and_DeCode\itcastderlog.c(46,12): warning C4013: “open”未定义；假设外部返回 int
-C:\Git\新建文件夹\01_EnCode_and_DeCode\itcastderlog.c(106,7): warning C4013: “write”未定义；假设外部返回 int
-C:\Git\新建文件夹\01_EnCode_and_DeCode\itcastderlog.c(110,7): warning C4013: “close”未定义；假设外部返回 int
-  itcast_asn1_der.c
-  main.c
+﻿  main.c
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstdlib(23,62): error C2061: 语法错误: 标识符“noexcept”
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstdlib(23,62): error C2059: 语法错误:“;”
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstdlib(23,90): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
@@ -108,4 +103,3 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\istream(21,9): warning C4157: C 编译器忽略了 pragma
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\istream(667,9): warning C4157: C 编译器忽略了 pragma
 C:\Git\新建文件夹\01_EnCode_and_DeCode\main.c(225,1): fatal error C1004: 发现意外的文件尾
-  正在生成代码...
