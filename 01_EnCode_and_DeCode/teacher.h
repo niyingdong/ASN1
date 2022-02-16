@@ -11,5 +11,4 @@ int encodeTeacher(Teacher* p,char** outdata,int* outlen);
 int decodeTeacher(char* indata,int inlen,Teacher** p);
 void freetea(Teacher** p);
 
-
 #endif
