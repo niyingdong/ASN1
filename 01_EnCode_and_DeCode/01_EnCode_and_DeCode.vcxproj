@@ -125,11 +125,12 @@
   <ItemGroup>
     <ClCompile Include="itcastderlog.c" />
     <ClCompile Include="itcast_asn1_der.c" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="teacher.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="itcastderlog.h" />
     <ClInclude Include="itcast_asn1_der.h" />
+    <ClInclude Include="teacher.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
